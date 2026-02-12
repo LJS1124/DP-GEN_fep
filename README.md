@@ -132,10 +132,17 @@ python FEP_TI/fep_ti.py
 - 补充自动化结果汇总脚本（自由能积分、误差条、图表）。
 - 增加最小可运行测试数据与 CI 检查。
 
-## Contributing / License
+---
 
-- 仓库当前未看到独立 `LICENSE` 文件与 `CONTRIBUTING` 指南。
-- 建议后续补充开源许可证与贡献流程说明。
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## ⭐ Support
+
+If you find this project useful, please consider giving it a star ⭐ on GitHub.
 
 ## English Summary
 
